@@ -77,7 +77,7 @@ Example mapping of crew members to assigned flights:
   "C3": ["F3", "F5"]
 }
 ```
-![execution](execution time.png)  
+![execution](execution_time.png)  
 ![gantt](gantt.png)  
 ![backtracking](backtracking.png)  
 
