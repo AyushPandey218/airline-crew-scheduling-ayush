@@ -77,8 +77,15 @@ Example mapping of crew members to assigned flights:
   "C3": ["F3", "F5"]
 }
 ```
+## Plots Generated
+
+### Crew Assignment Execution Time
 ![execution](images/execution.png)  
+
+### Crew Scheduling Gantt Chart
 ![gantt](images/gantt.png)  
+
+### Backtracking Time Complexity Growth
 ![backtracking](images/backtracking.png)  
 
 ---
